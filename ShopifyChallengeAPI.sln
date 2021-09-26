@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopifyChallengeAPI", "ShopifyChallengeAPI.csproj", "{0DC840FE-EEC6-43DF-B135-0C43683E6AC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopifyChallengeLib", "..\ShopifyChallengeLib\ShopifyChallengeLib.csproj", "{27CC4E35-F068-48C5-9460-87C4BBD87A64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DC840FE-EEC6-43DF-B135-0C43683E6AC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DC840FE-EEC6-43DF-B135-0C43683E6AC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DC840FE-EEC6-43DF-B135-0C43683E6AC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DC840FE-EEC6-43DF-B135-0C43683E6AC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27CC4E35-F068-48C5-9460-87C4BBD87A64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27CC4E35-F068-48C5-9460-87C4BBD87A64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27CC4E35-F068-48C5-9460-87C4BBD87A64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27CC4E35-F068-48C5-9460-87C4BBD87A64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14DCAE20-09C1-4CEB-893D-F9EA5BA90289}
+	EndGlobalSection
+EndGlobal
